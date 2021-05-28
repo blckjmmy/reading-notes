@@ -10,10 +10,16 @@
 ### Introducing of myself
 *my name is jonathan and i am interested in anime/manga and also like it story on never giving up no matter how hard the struggle and strife and still be able accomplish the task from there hard works!*
 
-#### Topics i Learn from codefellow 
+#### Topics i learn about mark down from code fellow codefellow 
 
-**What is Markup language
+**What is Markdown language
 *Markdown language is text editor for writer to help simplify writing there writing to text to html fashion it useful software tool for it basix syntax usage. and also help make it readable for viewers on the website.*
+
+**Good use of markdown Ex.**
+*  **bold** your language
+* *italicize* your language
+* link you to website for git hub for ex https://github.com/
+
 
 **What is Github
 *github is file sharing software for developers & also helps keep previous form of the files if developers decide to to go back too it if they decided to update it*
