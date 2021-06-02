@@ -36,7 +36,7 @@
 - [github.md](github.md)
 - [naruto](naruto.md)
 
--[Reading1] (github.md)
+- [Reading1] (github.md)
 -[]
 
 c
