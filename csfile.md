@@ -8,10 +8,7 @@
 
 
 ###  CSS syntax 
- use selector and declaration point. selector help with html to give it unique property. declaration assist in the css property each property is sepeerated by semi colon 
+ use selector and declaration point. selector help with html to give it unique property. declaration assist in the css property each property is sepeerated by semi colons 
 
-ex:
-h1 {
-    color: Blue;
-    font size: 10 px;
-}
+
+![image of css syntax](https://www.tutorialspoint.com/css/images/syntax.png)
