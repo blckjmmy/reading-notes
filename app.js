@@ -1,7 +1,7 @@
-// let userName = 'Jonathan'
+//  let userName = 'Jonathan'
 
-// userName = 'Nunn'
-// console.log(userName)
+//  userName = 'Nunn'
+//  console.log(userName)
 
 // userName = 'Nunnzu'
 // console.log(userName)
@@ -22,6 +22,7 @@ if (userAnswer == 'yes') {
 }
 
 if (userAnswer == 'no') {
-    document.write('<h1>Leave Boruto' + userName + '</h1>')
+    document.write('<h1>Leave outsider' + userName + '</h1>')
 
 }
+
