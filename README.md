@@ -34,13 +34,12 @@
 #### check out my pages
 
 - [repo.md](repo.md)
-- [github.md](github.md)
-- [naruto](naruto.md)
-- [index](index.html)
+- [javascript and operator](index.html)
 - [Reading1](github.md)
+- [wireframe](wireframe.md)
 
 
 
-you can do it 
+you can do it
 
 
