@@ -6,6 +6,11 @@
 
 - Rollover is a JavaScript technique used by Web developers to create an effect in which the appearance of a graphical image changes as the mouse pointer moves over it.
 
+- Contrast - When overlaying text on background images, use low contrast to ensure that the text is legible.
+
+- To collect information from websites, Google Analytics employs JavaScript code. Each time a user views a page with the Google Analytics code, Analytics records a visit.
+
+
 
 
 
